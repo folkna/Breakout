@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\bin\Debug\Breakout.exe
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\bin\Debug\Breakout.pdb
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.FormHighScore.resources
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.FormName.resources
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.FormStart.resources
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.Form1ball.resources
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.FormTest.resources
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.exe
+C:\Users\ADMIN\Desktop\New folder (12)\Breakout\obj\Debug\Breakout.pdb
